@@ -1,0 +1,108 @@
+﻿@model StoresManager.ViewModels.Stores.IndexVM
+@using StoresManager.Entities
+@using StoresManager.ExtentionMethods
+@using StoresManager.ViewModels.Stores
+@{
+    this.Layout = "/Views/Shared/_Site.cshtml";
+    ViewData["title"] = "Stores";
+}
+@{
+    User loggedUser = this.ViewContext.HttpContext.Session.GetObject<User>("loggedUser");
+}
+<fieldset>
+    <legend>MY STORES</legend>
+    @if (!Model.UserIsManager)
+    {
+        <a href="/Stores/Create">NEW</a>
+    }
+    <div class="grid">
+        <div class="row">
+            <div class="col-1 bold-text">Id</div>
+            <div class="col-2 bold-text">Chain</div>
+            <div class="col-3 bold-text">Address</div>
+            @if (loggedUser.Username == "nikiv")
+            {
+                <div class="col-1 bold-text">Owner</div>
+            }
+            <div class="col-2 bold-text">Manager First Name</div>
+            <div class="col-2 bold-text">Manager Last Name</div>
+        </div>
+        @if(Model.Items != null){
+            @foreach (Store item in Model.Items)
+            {
+                <div class="row">
+                    <div class="col-1">@item.Id</div>
+                    <div class="col-2">@item.Chain</div>
+                    <div class="col-3">@item.Address</div>
+                    @if (loggedUser.Username == "nikiv")
+                    {
+                        <div class="col-1">@item.Owner.Username</div>
+                    }
+                    @if(item.ManagerId != null)
+                    {          
+                        <div class="col-2">@item.Manager.FirstName</div>
+                        <div class="col-2">@item.Manager.LastName</div>
+                    }
+                    else
+                    {
+                        <div class="col-2"></div>
+                        <div class="col-2"></div>
+                    }
+                    @if (!Model.UserIsManager)
+                    {
+                        <div class="col-1">
+
+                            <a href="/Stores/Edit?id=@item.Id">edit</a>
+                            <a href="/Stores/Delete?id=@item.Id"
+                                onclick="return confirm('Delete Record?');">delete</a>
+                        </div>
+                    }
+                </div>
+            }
+        }
+        <div class="row pager">
+            @{
+                string controller = this.ViewContext.RouteData.Values["controller"].ToString();
+                string action = this.ViewContext.RouteData.Values["action"].ToString();
+                int selectedIndex = 0;
+                if (Model.Pager.ItemsPerPage == 3)
+                {
+                    selectedIndex = 0;
+                }
+                else if (Model.Pager.ItemsPerPage == 5)
+                {
+                    selectedIndex = 1;
+                }
+                else if (Model.Pager.ItemsPerPage == 10)
+                {
+                    selectedIndex = 2;
+                }
+            }
+            <div class="col-3">
+                @for (int i = 0; i < Model.Pager.PagesCount; i++)
+                {
+                    <a href="/@controller/@action?Pager.Page=@(i+1)&Pager.ItemsPerPage=@Model.Pager.ItemsPerPage">
+                        @(i + 1)
+                    </a>
+                }
+
+                <script>
+                    function ddlItemsPerPage_OnChange() {
+
+                        let control = document.getElementById("ddlItemsPerPage");
+                        document.location.href = "/@controller/@action?Pager.ItemsPerPage=" + control.value;
+                    }
+
+                    window.addEventListener('load', (event) => {
+                        document.getElementById("ddlItemsPerPage").selectedIndex = @selectedIndex;
+                    });
+                </script>
+                <select id="ddlItemsPerPage" onchange="ddlItemsPerPage_OnChange()">
+                    <option value="3">3</option>
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</fieldset>

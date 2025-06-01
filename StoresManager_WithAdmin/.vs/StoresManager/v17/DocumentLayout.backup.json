@@ -1,0 +1,680 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\shared\\_site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\shared\\_site.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\actionfilters\\authenticationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\actionfilters\\authenticationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\actionfilters\\adminauthenticationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\actionfilters\\adminauthenticationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\stores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\stores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\controllers\\offerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\stores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\stores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\offers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\offers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\offers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\offers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\offers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\offers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\products\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\products\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\products\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\home\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\home\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\home\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\stores\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\stores\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\home\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\home\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\products\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\products\\searchvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\users\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\users\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\users\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\users\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\users\\editvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\users\\editvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\stores\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\stores\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\products\\editvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\products\\editvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\stores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\stores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\products\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\products\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\offers\\editvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\offers\\editvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\offers\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\offers\\indexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\viewmodels\\offers\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\viewmodels\\offers\\createvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|d:\\visual studio\\repos\\reamke\\storesmanager_withadmin\\storesmanager\\storesmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6E9F7276-E7AB-4B7B-A52E-9BB1B51F2676}|StoresManager\\StoresManager.csproj|solutionrelative:storesmanager\\storesmanager.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Startup.cs",
+              "RelativeDocumentMoniker": "StoresManager\\Startup.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Startup.cs",
+              "RelativeToolTip": "StoresManager\\Startup.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:53:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Offers\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Offers\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Offers\\Index.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Offers\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T19:21:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Stores\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Stores\\Create.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Stores\\Create.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Stores\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T19:25:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Stores\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Stores\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Stores\\Index.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Stores\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T23:50:58.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StoresManager\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StoresManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAmwG4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:21:07.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OffersController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\OffersController.cs",
+              "RelativeDocumentMoniker": "StoresManager\\Controllers\\OffersController.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\OffersController.cs",
+              "RelativeToolTip": "StoresManager\\Controllers\\OffersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:19:10.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoresController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\StoresController.cs",
+              "RelativeDocumentMoniker": "StoresManager\\Controllers\\StoresController.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\StoresController.cs",
+              "RelativeToolTip": "StoresManager\\Controllers\\StoresController.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAcwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:50:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAADEAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T20:50:13.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Site.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Shared\\_Site.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Shared\\_Site.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Shared\\_Site.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Shared\\_Site.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:50:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "StoresManager\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "StoresManager\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowDwAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:56:38.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ActionFilters\\AuthenticationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ActionFilters\\AuthenticationFilterAttribute.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ActionFilters\\AuthenticationFilterAttribute.cs",
+              "RelativeToolTip": "StoresManager\\ActionFilters\\AuthenticationFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:49:56.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminAuthenticationFilterAttribute.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ActionFilters\\AdminAuthenticationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ActionFilters\\AdminAuthenticationFilterAttribute.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ActionFilters\\AdminAuthenticationFilterAttribute.cs",
+              "RelativeToolTip": "StoresManager\\ActionFilters\\AdminAuthenticationFilterAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:32:41.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Offers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Offers\\Edit.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Offers\\Edit.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Offers\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T19:30:28.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IndexVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\IndexVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Products\\IndexVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\IndexVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Products\\IndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:53:26.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T05:09:33.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Offers\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Offers\\Create.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Offers\\Create.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Offers\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T19:25:29.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Search.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Products\\Search.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Search.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Products\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:03:33.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T10:10:48.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IndexVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Home\\IndexVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Home\\IndexVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Home\\IndexVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Home\\IndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:13:17.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Home\\Search.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Home\\Search.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Home\\Search.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Home\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T20:50:24.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:03:10.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Stores\\CreateVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Stores\\CreateVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Stores\\CreateVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Stores\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T21:35:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SearchVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Home\\SearchVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Home\\SearchVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Home\\SearchVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Home\\SearchVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:33:47.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T05:09:23.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IndexVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Users\\IndexVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Users\\IndexVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Users\\IndexVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Users\\IndexVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:58:31.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SearchVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\SearchVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Products\\SearchVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\SearchVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Products\\SearchVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:53:30.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Users\\Create.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T05:09:05.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "EditVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Users\\EditVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Users\\EditVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Users\\EditVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Users\\EditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:58:08.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Users\\CreateVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Users\\CreateVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Users\\CreateVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Users\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T04:59:20.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\CreateVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Products\\CreateVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\CreateVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Products\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:53:09.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IndexVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Stores\\IndexVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Stores\\IndexVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Stores\\IndexVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Stores\\IndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:50:17.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T19:02:42.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Stores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Stores\\Edit.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Stores\\Edit.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Stores\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T21:32:14.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StoresManager\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "StoresManager\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-10T07:45:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EditVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\EditVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Products\\EditVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Products\\EditVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Products\\EditVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T05:35:33.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StoresManager\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StoresManager\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-22T23:16:07.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IndexVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Offers\\IndexVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Offers\\IndexVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Offers\\IndexVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Offers\\IndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:13:07.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EditVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Offers\\EditVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Offers\\EditVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Offers\\EditVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Offers\\EditVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:59:15.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateVM.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Offers\\CreateVM.cs",
+              "RelativeDocumentMoniker": "StoresManager\\ViewModels\\Offers\\CreateVM.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\ViewModels\\Offers\\CreateVM.cs",
+              "RelativeToolTip": "StoresManager\\ViewModels\\Offers\\CreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:24:00.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StoresManager.csproj",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\StoresManager.csproj",
+              "RelativeDocumentMoniker": "StoresManager\\StoresManager.csproj",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\StoresManager.csproj",
+              "RelativeToolTip": "StoresManager\\StoresManager.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T23:29:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Repositories\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "StoresManager\\Repositories\\UsersRepository.cs",
+              "ToolTip": "D:\\Visual Studio\\repos\\reamke\\StoresManager_WithAdmin\\StoresManager\\Repositories\\UsersRepository.cs",
+              "RelativeToolTip": "StoresManager\\Repositories\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T23:49:29.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

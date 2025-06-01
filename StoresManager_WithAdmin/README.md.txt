@@ -1,0 +1,1 @@
+This my first MVC project. It intends to work with a store DB and give easy access to stores and deals in your area.

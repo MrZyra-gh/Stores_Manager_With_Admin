@@ -1,0 +1,49 @@
+﻿@model StoresManager.ViewModels.Products.CreateVM
+@{
+    this.Layout = "/Views/Shared/_Site.cshtml";
+    ViewData["title"] = "CREATE PRODUCT";
+}
+
+<fieldset>
+    <legend>CREATE PRODUCT</legend>
+    <form action="/Products/Create" method="post">
+        
+        <div class="grid">
+            <div class="row">
+                <div class="col-1">
+                    @Html.LabelFor(m => m.Name)
+                </div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.Name)
+                </div>
+                <div class="col-2">
+                    @Html.ValidationMessageFor(m => m.Name)
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1">
+                    @Html.LabelFor(m => m.Brand)
+                </div>
+                <div class="col-2">
+                    @Html.TextBoxFor(m => m.Brand)
+                </div>
+                <div class="col-2">
+                    @Html.ValidationMessageFor(m => m.Brand)
+                </div>
+            
+            </div>
+            <div class="row">
+                <div class="col-3">
+                    @Html.ValidationMessage("summaryError")
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1"></div>
+                <div class="col-2">
+                    <input type="submit" class="right" value="Save" />
+                    <a href="/Products/Index" class="right">Back</a>
+                </div>
+            </div>
+        </div>
+    </form>
+</fieldset>

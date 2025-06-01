@@ -1,0 +1,90 @@
+﻿@model StoresManager.ViewModels.Offers.IndexVM
+@using StoresManager.Entities
+@{
+    this.Layout = "/Views/Shared/_Site.cshtml";
+    ViewData["title"] = "OFFERS";
+}
+
+
+
+<a href="/Offers/Create">NEW</a>
+<fieldset>
+    <legend>OFFERS</legend>
+    <div class="grid">
+        <div class="row">
+            <div class="col-1 bold-text">Chain</div>
+            <div class="col-1 bold-text">Address</div>
+            <div class="col-1 bold-text">Product</div>
+            <div class="col-1 bold-text">Brand</div>
+            <div class="col-1 bold-text">Base Price</div>
+            <div class="col-1 bold-text">Current Price</div>
+        </div>
+        @if (Model.Items != null)
+        {
+            @foreach (StoreToProduct item in Model.Items)
+            {
+                <div class="row">                
+                    <div class="col-1">@item.Store.Chain</div>
+                    <div class="col-1">@item.Store.Address</div>                
+                    <div class="col-1">@item.Product.Name</div>
+                    <div class="col-1">@item.Product.Brand</div>
+                    <div class="col-1">@item.BasePrice</div>
+                    <div class="col-1">@item.LoweredPrice</div>
+                
+                
+                        <div class="col-1">
+
+                            <a href="/Offers/Edit?id=@item.Id">edit</a>
+                            <a href="/Offers/Delete?id=@item.Id"
+                               onclick="return confirm('Delete Record?');">delete</a>
+                        </div>
+                
+                </div>
+            }
+        }
+        <div class="row pager">
+            @{
+                string controller = this.ViewContext.RouteData.Values["controller"].ToString();
+                string action = this.ViewContext.RouteData.Values["action"].ToString();
+                int selectedIndex = 0;
+                if (Model.Pager.ItemsPerPage == 3)
+                {
+                    selectedIndex = 0;
+                }
+                else if (Model.Pager.ItemsPerPage == 5)
+                {
+                    selectedIndex = 1;
+                }
+                else if (Model.Pager.ItemsPerPage == 10)
+                {
+                    selectedIndex = 2;
+                }
+            }
+            <div class="col-3">
+                @for (int i = 0; i < Model.Pager.PagesCount; i++)
+                {
+                    <a href="/@controller/@action?Pager.Page=@(i+1)&Pager.ItemsPerPage=@Model.Pager.ItemsPerPage">
+                        @(i + 1)
+                    </a>
+                }
+
+                <script>
+                    function ddlItemsPerPage_OnChange() {
+
+                        let control = document.getElementById("ddlItemsPerPage");
+                        document.location.href = "/@controller/@action?Pager.ItemsPerPage=" + control.value;
+                    }
+
+                    window.addEventListener('load', (event) => {
+                        document.getElementById("ddlItemsPerPage").selectedIndex = @selectedIndex;
+                    });
+                </script>
+                <select id="ddlItemsPerPage" onchange="ddlItemsPerPage_OnChange()">
+                    <option value="3">3</option>
+                    <option value="5">5</option>
+                    <option value="10">10</option>
+                </select>
+            </div>
+        </div>
+    </div>
+</fieldset>
